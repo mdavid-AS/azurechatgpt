@@ -46,6 +46,11 @@ export const EmptyState: FC<Prop> = (props) => {
         <p className="">
           Start by just typing your message in the box below. You can also
           personalise the chat by making changes to the settings on the right.
+          <br>
+            Please Note: You can upload single files (.pdf & .jpg format only)
+            into your personal repository which accumulates. The file should be smaller 
+            than 2MB.
+          </br>
         </p>
       </div>
       <Card className="col-span-3 flex flex-col gap-5 p-5 ">
