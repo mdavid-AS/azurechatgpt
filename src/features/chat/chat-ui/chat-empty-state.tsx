@@ -47,9 +47,11 @@ export const EmptyState: FC<Prop> = (props) => {
           Start by just typing your message in the box below. You can also
           personalise the chat by making changes to the settings on the right.
           <br></br>
-            <b>Please Note: </b>You can upload single files (.pdf & .jpg format only)
-            into your personal repository which accumulates. The file should be smaller 
-            than 2MB.
+          <br></br>
+            <b>Please Note: </b>You can upload single files (<b>.pdf & .jpg format only</b>)
+            into your personal repository which accumulates documents. 
+          <br></br>
+          The file should be smaller than <b>2MB</b>.
           <br></br>
         </p>
       </div>
